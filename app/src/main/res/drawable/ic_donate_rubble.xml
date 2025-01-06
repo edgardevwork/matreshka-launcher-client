@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="43.0dip" android:width="42.0dip" android:viewportWidth="42.0" android:viewportHeight="43.0">
+	<path android:fillColor="@drawable/ic_donate_rubble__0" android:pathData="M14,37.25H17.5V32H28V28.5H17.5V25H25.375C30.1997,25 34.125,21.0747 34.125,16.25C34.125,11.4253 30.1997,7.5 25.375,7.5H15.75C15.2859,7.5 14.8408,7.6844 14.5126,8.0126C14.1844,8.3407 14,8.7859 14,9.25V21.5H8.75V25H14V28.5H8.75V32H14V37.25ZM17.5,11H25.375C28.2695,11 30.625,13.3555 30.625,16.25C30.625,19.1445 28.2695,21.5 25.375,21.5H17.5V11Z" />
+</vector>

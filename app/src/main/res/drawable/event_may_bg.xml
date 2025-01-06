@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="1080.0dip" android:width="1920.0dip" android:viewportWidth="1920.0" android:viewportHeight="1080.0">
+	<path android:fillColor="#ff111111" android:pathData="M0,0h1920v1080h-1920z" />
+	<path android:fillColor="@drawable/event_may_bg__0" android:pathData="M0,0h1920v1080h-1920z" android:fillAlpha="0.7" />
+</vector>

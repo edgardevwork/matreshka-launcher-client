@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="490.0dip" android:width="490.0dip" android:viewportWidth="490.0" android:viewportHeight="490.0">
+	<path android:fillColor="@drawable/valentine_preview_blur__0" android:pathData="M245,0L245,0A245,245 0,0 1,490 245L490,245A245,245 0,0 1,245 490L245,490A245,245 0,0 1,0 245L0,245A245,245 0,0 1,245 0z" />
+</vector>

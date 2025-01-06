@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="26.0dip" android:width="66.0dip" android:viewportWidth="66.0" android:viewportHeight="26.0">
+	<path android:fillColor="@drawable/bg_hud_ammo__0" android:pathData="M13,0L53,0A13,13 0,0 1,66 13L66,13A13,13 0,0 1,53 26L13,26A13,13 0,0 1,0 13L0,13A13,13 0,0 1,13 0z" />
+</vector>

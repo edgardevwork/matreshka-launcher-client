@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="300.0dip" android:width="800.0dip" android:viewportWidth="800.0" android:viewportHeight="300.0">
+	<path android:fillColor="@drawable/ic_e2y_task_list_global_bg__0" android:pathData="M100,0H30C13.43,0 0,13.43 0,30V270C0,286.57 13.43,300 30,300H770C786.57,300 800,286.57 800,270V30C800,13.43 786.57,0 770,0H700V2H770C785.46,2 798,14.54 798,30V270C798,285.46 785.46,298 770,298H30C14.54,298 2,285.46 2,270V30C2,14.54 14.54,2 30,2H100V0Z" android:fillType="evenOdd" />
+</vector>

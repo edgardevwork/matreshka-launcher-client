@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="35.0dip" android:width="276.0dip" android:viewportWidth="276.0" android:viewportHeight="35.0">
+	<path android:fillColor="#ff0e0815" android:pathData="M0.18,0H271.994C274.203,0 275.994,1.791 275.994,4V31C275.994,33.209 274.203,35 271.994,35H15.075C11.543,22.629 6.508,10.892 0.18,0Z" android:fillAlpha="0.9" android:fillType="evenOdd" />
+	<path android:fillColor="@drawable/bg_hud_health__0" android:pathData="M0.18,0H271.994C274.203,0 275.994,1.791 275.994,4V31C275.994,33.209 274.203,35 271.994,35H15.075C11.543,22.629 6.508,10.892 0.18,0Z" android:fillType="evenOdd" />
+</vector>

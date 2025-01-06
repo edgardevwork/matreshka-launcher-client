@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Triggertrap:SeekArc:v1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/24c6722abe39c3bb30de7e98fa6f2dd3/transformed/jetified-SeekArc-v1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/24c6722abe39c3bb30de7e98fa6f2dd3/transformed/jetified-SeekArc-v1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/24c6722abe39c3bb30de7e98fa6f2dd3/transformed/jetified-SeekArc-v1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

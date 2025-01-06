@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="424.0dip" android:width="322.0dip" android:viewportWidth="322.0" android:viewportHeight="424.0">
+	<path android:fillColor="#ff4e277d" android:pathData="M0,0h322v424h-322z" />
+	<path android:fillColor="@drawable/ic_donate_item_bg__0" android:pathData="M0,0h322v424h-322z" />
+	<path android:fillColor="@drawable/ic_donate_item_bg__1" android:pathData="M0,0h322v424h-322z" />
+</vector>

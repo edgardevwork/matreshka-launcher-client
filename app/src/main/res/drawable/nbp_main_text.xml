@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="62.0dip" android:width="376.0dip" android:viewportWidth="376.0" android:viewportHeight="62.0">
+	<path android:fillColor="@drawable/nbp_main_text__0" android:pathData="M20.97,28.29L23.76,62H0V8.49H19.54V12.69H12.39V28.29H20.97ZM12.39,57.72H18.51L16.45,32.57H12.39V57.72Z" />
+	<path android:fillColor="@drawable/nbp_main_text__1" android:pathData="M51.61,8.49V62H26.9V8.49H51.61ZM39.06,57.72V12.69H31.75V57.72H39.06Z" />
+	<path android:fillColor="@drawable/nbp_main_text__2" android:pathData="M57.15,62V8.49H78.36V12.69H69.7V47.17H77.09V51.45H69.7V57.72H78.36V62H57.15Z" />
+	<path android:fillColor="@drawable/nbp_main_text__3" android:pathData="M102.54,28.29L105.32,62H81.57V8.49H105L99.28,28.29H102.54ZM93.88,12.69V29.51L98.73,12.69H93.88ZM93.88,57.72H100.08L97.93,32.57H93.88V57.72Z" />
+	<path android:fillColor="@drawable/nbp_main_text__4" android:pathData="M134.03,8.49V62H109.32V8.49H134.03ZM121.48,57.72V12.69H114.17V57.72H121.48Z" />
+	<path android:fillColor="@drawable/nbp_main_text__5" android:pathData="M145.37,4.2V0H158.55V4.2H145.37ZM144.41,42.12L151.8,8.49H164.27V62H151.8V28.29L144.89,62H139.57V8.49H144.41V42.12Z" />
+	<path android:fillColor="@drawable/nbp_main_text__6" android:pathData="M185.81,12.69V62H180.96V8.49H205.67V62H193.12V12.69H185.81Z" />
+	<path android:fillColor="@drawable/nbp_main_text__7" android:pathData="M211.2,8.49H235.12L232.34,47.17H223.75V62H211.2V8.49ZM229.87,12.69H223.75V42.96H227.73L229.87,12.69Z" />
+	<path android:fillColor="@drawable/nbp_main_text__8" android:pathData="M263.82,8.49V62H239.11V8.49H263.82ZM251.27,57.72V12.69H243.96V57.72H251.27Z" />
+	<path android:fillColor="@drawable/nbp_main_text__9" android:pathData="M274.2,12.69V62H269.36V8.49H294.06V62H281.51V12.69H274.2Z" />
+	<path android:fillColor="@drawable/nbp_main_text__10" android:pathData="M307.46,51.45H301.74L296.82,8.49H301.82L306.27,47.17H307.86L311.67,8.49H324.86L319.54,62H301.66V57.72H306.83L307.46,51.45Z" />
+	<path android:fillColor="@drawable/nbp_main_text__11" android:pathData="M327.66,62V8.49H348.88V12.69H340.14V57.72H348.88V62H327.66Z" />
+	<path android:fillColor="@drawable/nbp_main_text__12" android:pathData="M352.08,8.49H364.64V28.97L370.76,8.49H375.76L369.96,28.36H373.22L376,62H370.92L368.53,32.57H364.64V62H352.08V8.49Z" />
+</vector>

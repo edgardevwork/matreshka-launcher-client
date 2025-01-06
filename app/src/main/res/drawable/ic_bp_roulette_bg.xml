@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="364.0dip" android:width="1920.0dip" android:viewportWidth="1920.0" android:viewportHeight="364.0">
+	<path android:fillColor="@drawable/ic_bp_roulette_bg__0" android:pathData="M5,0L1915,0A5,5 0,0 1,1920 5L1920,359A5,5 0,0 1,1915 364L5,364A5,5 0,0 1,0 359L0,5A5,5 0,0 1,5 0z" android:fillAlpha="0.9" />
+</vector>

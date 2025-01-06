@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="53.0dip" android:width="343.0dip" android:viewportWidth="343.0" android:viewportHeight="53.0">
+	<path android:fillColor="#ff150b21" android:pathData="M0.994,1.486V0H338.994C341.203,0 342.994,1.791 342.994,4V49C342.994,51.209 341.203,53 338.994,53H60.846C45.747,31.066 25.128,13.226 0.994,1.486Z" android:fillAlpha="0.9" android:fillType="evenOdd" />
+	<path android:fillColor="@drawable/bg_hud_money__0" android:pathData="M0.994,1.486V0H338.994C341.203,0 342.994,1.791 342.994,4V49C342.994,51.209 341.203,53 338.994,53H60.846C45.747,31.066 25.128,13.226 0.994,1.486Z" android:fillType="evenOdd" />
+</vector>

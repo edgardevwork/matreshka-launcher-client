@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="56.0dip" android:width="737.0dip" android:viewportWidth="737.0" android:viewportHeight="56.0">
+	<group>
+		<clip-path android:pathData="M5,0L732,0A5,5 0,0 1,737 5L737,51A5,5 0,0 1,732 56L5,56A5,5 0,0 1,0 51L0,5A5,5 0,0 1,5 0z" />
+		<path android:fillColor="#ff12001b" android:pathData="M5,0L732,0A5,5 0,0 1,737 5L737,51A5,5 0,0 1,732 56L5,56A5,5 0,0 1,0 51L0,5A5,5 0,0 1,5 0z" android:fillAlpha="0.85" />
+		<path android:fillColor="@drawable/bg_audio_input__0" android:pathData="M5,0L732,0A5,5 0,0 1,737 5L737,51A5,5 0,0 1,732 56L5,56A5,5 0,0 1,0 51L0,5A5,5 0,0 1,5 0z" />
+		<path android:fillColor="#ff000000" android:pathData="M0,-1h737v57h-737z" android:fillAlpha="0.4" />
+	</group>
+	<path android:fillColor="#00000000" android:pathData="M5,1L732,1A4,4 0,0 1,736 5L736,51A4,4 0,0 1,732 55L5,55A4,4 0,0 1,1 51L1,5A4,4 0,0 1,5 1z" android:strokeColor="@drawable/bg_audio_input__1" android:strokeWidth="2.0" />
+</vector>

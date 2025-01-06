@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="62.0dip" android:width="233.0dip" android:viewportWidth="233.0" android:viewportHeight="62.0">
+	<path android:fillColor="@drawable/ic_btnpanel_light_bg__0" android:pathData="M0,0h233v61.217h-233z" />
+</vector>

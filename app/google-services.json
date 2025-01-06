@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085461037163",
+    "project_id": "edgarcontacts-deni-kranin",
+    "storage_bucket": "edgarcontacts-deni-kranin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085461037163:android:344687bd86229d7ce4312e",
+        "android_client_info": {
+          "package_name": "ru.edgar.matrp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085461037163-i3fqqmk1416b4813t42fskd2m2sq2b33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0NvF9F40b3YJ8jO9QZOnO0TzGdJK3mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085461037163-i3fqqmk1416b4813t42fskd2m2sq2b33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

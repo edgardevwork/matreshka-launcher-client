@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="83.0dip" android:width="226.0dip" android:viewportWidth="226.0" android:viewportHeight="83.0">
+	<path android:fillColor="@drawable/nbp_header_button_filled__0" android:pathData="M21.67,0H226L204.33,83H0L21.67,0Z" />
+</vector>

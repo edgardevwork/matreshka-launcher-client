@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="3.0dip" android:width="596.0dip" android:viewportWidth="596.0" android:viewportHeight="3.0">
+	<path android:fillColor="@drawable/ic_battlepass_devider__0" android:pathData="M0,0h596v3h-596z" />
+</vector>

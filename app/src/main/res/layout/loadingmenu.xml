@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/edgar_loagin_kranin"
+	android:background="#ff7e7e7e"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<FrameLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:background="@drawable/gameloading_bg"
+		android:visibility="visible" />
+	<ImageView android:id="@id/lm_bg_1" android:src="@drawable/lm_bg_1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" android:alpha="0.0" />
+	<ImageView android:id="@id/lm_bg_2" android:src="@drawable/lm_bg_2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" android:alpha="0.0" />
+	<ImageView android:id="@id/lm_bg_3" android:src="@drawable/lm_bg_3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" android:alpha="0.0" />
+	<ImageView android:id="@id/lm_bg_4" android:src="@drawable/lm_bg_4" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" android:alpha="0.0" />
+	<ImageView android:id="@id/lm_bg_5" android:src="@drawable/lm_bg_5" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" android:alpha="0.0" />
+	<ImageView android:id="@id/lm_bg_6" android:src="@drawable/lm_bg_0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" android:alpha="0.0" />
+
+	<ImageView
+		android:id="@id/gameloading_logo"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:src="@drawable/loadingmenu_ic"
+		android:visibility="visible" />
+
+	<TextView
+		android:id="@id/lm_message"
+		android:layout_width="@dimen/_200sdp"
+		android:layout_height="wrap_content"
+		android:layout_gravity="bottom"
+		android:layout_marginStart="@dimen/_29sdp"
+		android:layout_marginBottom="@dimen/_17sdp"
+		android:fontFamily="@font/ttnorms_medium"
+		android:gravity="bottom"
+		android:text="Система инвентаря,с помощью которой вы можете менять любой скин, оружие, аксессуар и многое другое, можно открыть с помощью кнопки"
+		android:textColor="#ffffffff"
+		android:textSize="@dimen/_10sdp"
+		android:visibility="gone" />
+	<LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/_17sdp">
+		<TextView android:textSize="@dimen/_10sdp" android:textColor="#ffffffff" android:gravity="right" android:layout_gravity="center_vertical" android:id="@id/lm_status" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="@dimen/_15sdp" android:text="Загрузка игры..." android:layout_weight="1.0" android:fontFamily="@font/ttnorms_medium" />
+		<ImageView android:id="@id/lm_candle_1" android:layout_width="@dimen/_9sdp" android:layout_height="@dimen/_23sdp" android:src="@drawable/ic_lm_candle" android:alpha="0.0" android:layout_marginEnd="@dimen/_2sdp" />
+		<ImageView android:id="@id/lm_candle_2" android:layout_width="@dimen/_9sdp" android:layout_height="@dimen/_23sdp" android:src="@drawable/ic_lm_candle" android:alpha="0.0" android:layout_marginEnd="@dimen/_2sdp" />
+		<ImageView android:id="@id/lm_candle_3" android:layout_width="@dimen/_9sdp" android:layout_height="@dimen/_23sdp" android:src="@drawable/ic_lm_candle" android:alpha="0.0" android:layout_marginEnd="@dimen/_2sdp" />
+		<ImageView android:id="@id/lm_candle_4" android:layout_width="@dimen/_9sdp" android:layout_height="@dimen/_23sdp" android:src="@drawable/ic_lm_candle" android:alpha="0.0" android:layout_marginEnd="@dimen/_2sdp" />
+		<ImageView android:id="@id/lm_candle_5" android:layout_width="@dimen/_9sdp" android:layout_height="@dimen/_23sdp" android:src="@drawable/ic_lm_candle" android:alpha="0.0" android:layout_marginEnd="@dimen/_25sdp" />
+	</LinearLayout>
+</FrameLayout>

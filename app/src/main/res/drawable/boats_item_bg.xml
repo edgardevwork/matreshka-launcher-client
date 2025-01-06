@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="621.0dip" android:width="478.0dip" android:viewportWidth="478.0" android:viewportHeight="621.0">
+	<path android:fillColor="#ff6427b6" android:pathData="M25,0L453,0A25,25 0,0 1,478 25L478,596A25,25 0,0 1,453 621L25,621A25,25 0,0 1,0 596L0,25A25,25 0,0 1,25 0z" android:fillAlpha="0.05" />
+	<path android:fillColor="@drawable/boats_item_bg__0" android:pathData="M25,0L453,0A25,25 0,0 1,478 25L478,596A25,25 0,0 1,453 621L25,621A25,25 0,0 1,0 596L0,25A25,25 0,0 1,25 0z" android:fillAlpha="0.6" />
+	<path android:fillColor="#00000000" android:pathData="M25,0.5L453,0.5A24.5,24.5 0,0 1,477.5 25L477.5,596A24.5,24.5 0,0 1,453 620.5L25,620.5A24.5,24.5 0,0 1,0.5 596L0.5,25A24.5,24.5 0,0 1,25 0.5z" android:strokeColor="#ff7138b8" android:strokeWidth="1.0" android:strokeAlpha="0.5" />
+</vector>

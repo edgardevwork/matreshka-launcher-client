@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="120.0dip" android:width="540.0dip" android:viewportWidth="540.0" android:viewportHeight="120.0">
+	<path android:fillColor="#ff7d16ff" android:pathData="M540,0H0V27H8L8,46H0V91.56L28.44,120H220V112L318,112V120H477.1L540,57.1V0ZM540,68.69L488.69,120H500.3L540,80.31V68.69Z" android:fillType="evenOdd" />
+	<path android:fillColor="@drawable/nbp_stage_btn_bg__0" android:pathData="M540,0H0V27H8L8,46H0V91.56L28.44,120H220V112L318,112V120H477.1L540,57.1V0ZM540,68.69L488.69,120H500.3L540,80.31V68.69Z" android:fillType="evenOdd" />
+</vector>

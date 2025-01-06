@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="79.0dip" android:width="79.0dip" android:viewportWidth="79.0" android:viewportHeight="79.0">
+	<path android:fillColor="@drawable/ic_discount_close__0" android:pathData="M0,0H79V79H25C11.1929,79 0,67.8071 0,54V0Z" />
+	<path android:fillColor="#ff000000" android:pathData="M0,0H79V79H25C11.1929,79 0,67.8071 0,54V0Z" android:fillAlpha="0.51" />
+	<path android:fillColor="@drawable/ic_discount_close__1" android:pathData="M0,0H79V79H25C11.1929,79 0,67.8071 0,54V0Z" android:fillAlpha="0.74" />
+	<path android:fillColor="@drawable/ic_discount_close__2" android:pathData="M56,26.4L52.6,23L39,36.6L25.4,23L22,26.4L35.6,40L22,53.6L25.4,57L39,43.4L52.6,57L56,53.6L42.4,40L56,26.4Z" />
+</vector>

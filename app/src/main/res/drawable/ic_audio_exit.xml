@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="106.0dip" android:width="286.0dip" android:viewportWidth="286.0" android:viewportHeight="106.0">
+	<path android:fillColor="@drawable/ic_audio_exit__0" android:pathData="M0,0h286v106h-286z" />
+</vector>

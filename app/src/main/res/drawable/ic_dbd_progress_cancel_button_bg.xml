@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="47.0dip" android:width="193.0dip" android:viewportWidth="193.0" android:viewportHeight="47.0">
+	<path android:fillColor="#ff121212" android:pathData="M5,0L188,0A5,5 0,0 1,193 5L193,42A5,5 0,0 1,188 47L5,47A5,5 0,0 1,0 42L0,5A5,5 0,0 1,5 0z" android:fillAlpha="0.65" />
+	<path android:fillColor="@drawable/ic_dbd_progress_cancel_button_bg__0" android:pathData="M13,42L180,42A5,5 0,0 0,185 37L185,10A5,5 0,0 0,180 5L13,5A5,5 0,0 0,8 10L8,37A5,5 0,0 0,13 42z" android:strokeAlpha="0.54" android:fillAlpha="0.54" />
+</vector>

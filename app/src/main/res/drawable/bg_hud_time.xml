@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="21.0dip" android:width="191.0dip" android:viewportWidth="191.0" android:viewportHeight="21.0">
+	<path android:fillColor="@drawable/bg_hud_time__0" android:pathData="M187.996,0H33.636C23.731,8.296 12.771,15.373 0.986,21H187.996C189.653,21 190.996,19.657 190.996,18V3C190.996,1.343 189.653,0 187.996,0Z" android:fillType="evenOdd" />
+</vector>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="76.0dip" android:width="224.0dip" android:viewportWidth="224.0" android:viewportHeight="76.0">
+	<path android:fillColor="@drawable/ic_bp_button_negative__0" android:pathData="M0,0h223.367v76h-223.367z" />
+</vector>

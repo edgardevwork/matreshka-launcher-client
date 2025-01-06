@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="281.0dip" android:width="281.0dip" android:viewportWidth="281.0" android:viewportHeight="281.0">
+	<path android:fillColor="#ff000000" android:pathData="M140.96,140.501m-140.001,0a140.001,140.001 0,1 1,280.002 0a140.001,140.001 0,1 1,-280.002 0" android:fillAlpha="0.7" />
+	<path android:fillColor="@drawable/ic_speed_circle_active__0" android:pathData="M140.96,140.501m-140.001,0a140.001,140.001 0,1 1,280.002 0a140.001,140.001 0,1 1,-280.002 0" android:fillAlpha="0.3" />
+</vector>

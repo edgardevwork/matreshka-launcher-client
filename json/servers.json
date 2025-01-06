@@ -1,0 +1,32 @@
+[
+    {
+      "color": "ff368418",
+      "maxonline": 1000,
+      "name": "МАТРЕШКА MOBILE #1",
+      "online": 1000,
+      "recommend": true,
+      "edgar_host": "92.222.49.114",
+      "edgar_port": 2189,
+      "id": 1
+    },
+   {
+      "color": "30d5c8",
+      "maxonline": 1000,
+      "name": "МАТРЕШКА MOBILE #2",
+      "online": 841,
+      "recommend": true,
+      "edgar_host": "92.222.49.114",
+      "edgar_port": 2189,
+      "id": 2
+    },
+    {
+      "color": "ff0000",
+      "maxonline": 1000,
+      "name": "МАТРЕШКА MOBILE #3",
+      "online": 936,
+      "recommend": false,
+      "edgar_host": "92.222.49.114",
+      "edgar_port": 2189,
+      "id": 3
+    }
+]

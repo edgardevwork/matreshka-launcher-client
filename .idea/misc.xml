@@ -1,0 +1,53 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/drawable/dialog_bg.xml" value="0.2203125" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/drawable/dialog_item_bg.xml" value="0.2203125" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/drawable/dialog_second_btn_bg.xml" value="0.2203125" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/drawable/hud_heath_new.xml" value="0.2203125" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/drawable/hud_pb_new.xml" value="0.2203125" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/drawable/progreessbar2.xml" value="0.2203125" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/drawable/progressbar.xml" value="0.2203125" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/activity_loader.xml" value="0.22" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/activity_splash.xml" value="0.1962962962962963" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/bhud_layout.xml" value="0.33" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/br_activity_gr.xml" value="0.25" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/br_clientsettings.xml" value="0.25" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/br_death_info.xml" value="0.25" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/br_notification.xml" value="0.25" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/br_registration.xml" value="0.25" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/br_selectspawn.xml" value="0.33" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/br_serverselect.xml" value="0.2" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/br_serverselect_server.xml" value="0.20416666666666666" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/br_warning.xml" value="0.25" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/brreg_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/brspawn_layout.xml" value="0.33" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/brtest_show.xml" value="0.25" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/bspeed_layout.xml" value="0.25" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/dialog_settings.xml" value="0.25" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/dialog_settings_common.xml" value="0.1" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/dialog_settings_fps.xml" value="0.20416666666666666" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/dialog_settings_hud.xml" value="0.25" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/dialog_settings_old.xml" value="0.22" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/fragment_donate.xml" value="0.20416666666666666" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/fragment_monitoring.xml" value="0.20416666666666666" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/fragment_settings.xml" value="0.20416666666666666" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/hassle_tab.xml" value="0.20416666666666666" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/item_news.xml" value="0.20416666666666666" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/main_render_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/menu_action_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/menu_action_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/sd_dialog.xml" value="0.33" />
+        <entry key="..\:/бр иски хихихиххихи/бр иски хихихиххихи/fix_br/fix br/app/src/main/res/layout/sd_dialog_item.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

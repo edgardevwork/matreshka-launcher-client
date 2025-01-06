@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="84.0dip" android:width="476.0dip" android:viewportWidth="476.0" android:viewportHeight="84.0">
+	<path android:fillColor="@drawable/nbp_exp_btn_buy_gold__0" android:pathData="M20,0H476L456,84H0L20,0Z" />
+</vector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="453.0dip" android:width="453.0dip" android:viewportWidth="453.0" android:viewportHeight="453.0">
+	<path android:fillColor="#ff000000" android:pathData="M5,0.5L448,0.5A4.5,4.5 0,0 1,452.5 5L452.5,448A4.5,4.5 0,0 1,448 452.5L5,452.5A4.5,4.5 0,0 1,0.5 448L0.5,5A4.5,4.5 0,0 1,5 0.5z" android:fillAlpha="0.93" />
+	<path android:fillColor="@drawable/ic_bp_prize_bg__0" android:pathData="M5,0.5L448,0.5A4.5,4.5 0,0 1,452.5 5L452.5,448A4.5,4.5 0,0 1,448 452.5L5,452.5A4.5,4.5 0,0 1,0.5 448L0.5,5A4.5,4.5 0,0 1,5 0.5z" />
+	<path android:fillColor="#00000000" android:pathData="M5,0.5L448,0.5A4.5,4.5 0,0 1,452.5 5L452.5,448A4.5,4.5 0,0 1,448 452.5L5,452.5A4.5,4.5 0,0 1,0.5 448L0.5,5A4.5,4.5 0,0 1,5 0.5z" android:strokeColor="#ff7138b8" android:strokeWidth="1.0" />
+</vector>

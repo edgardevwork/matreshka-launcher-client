@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_checked="false" android:width="@dimen/_19sdp">
+		<shape>
+			<size android:height="@dimen/_19sdp" android:width="@dimen/_19sdp" />
+			<stroke android:width="@dimen/_1sdp" android:color="#ff7c33d9" />
+			<corners android:radius="@dimen/_4sdp" />
+			<gradient android:startColor="#59491887" android:endColor="#4d832cf3" android:angle="0.0" />
+		</shape>
+	</item>
+	<item android:state_checked="true" android:drawable="@drawable/checkbox_selected" />
+	<item>
+		<shape>
+			<size android:height="@dimen/_19sdp" android:width="@dimen/_19sdp" />
+			<stroke android:width="@dimen/_1sdp" android:color="#ff7c33d9" />
+			<corners android:radius="@dimen/_4sdp" />
+			<gradient android:startColor="#59491887" android:endColor="#4d832cf3" android:angle="0.0" />
+		</shape>
+	</item>
+</selector>

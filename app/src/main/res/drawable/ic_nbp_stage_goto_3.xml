@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="120.0dip" android:width="520.0dip" android:viewportWidth="520.0" android:viewportHeight="120.0">
+	<path android:fillColor="@drawable/ic_nbp_stage_goto_3__0" android:pathData="M39.77,0.68C39.91,0.28 40.29,0 40.72,0H520L480.23,119.32C480.09,119.72 479.71,120 479.28,120H0L39.77,0.68Z" />
+</vector>

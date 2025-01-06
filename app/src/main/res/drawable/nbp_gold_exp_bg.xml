@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="664.0dip" android:width="696.0dip" android:viewportWidth="696.0" android:viewportHeight="664.0">
+	<path android:fillColor="#ff000000" android:pathData="M159.93,0H696L536.07,664H0L159.93,0Z" android:fillAlpha="0.2" />
+	<path android:fillColor="@drawable/nbp_gold_exp_bg__0" android:pathData="M159.93,0H696L536.07,664H0L159.93,0Z" android:fillAlpha="0.6" />
+</vector>

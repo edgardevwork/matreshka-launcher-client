@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="61.0dip" android:width="140.0dip" android:viewportWidth="140.0" android:viewportHeight="61.0">
+	<path android:fillColor="#ff150b21" android:pathData="M8,0.5L132,0.5A7.5,7.5 0,0 1,139.5 8L139.5,53A7.5,7.5 0,0 1,132 60.5L8,60.5A7.5,7.5 0,0 1,0.5 53L0.5,8A7.5,7.5 0,0 1,8 0.5z" android:fillAlpha="0.85" />
+	<path android:fillColor="@drawable/hud_btn_bg_old2__0" android:pathData="M8,0.5L132,0.5A7.5,7.5 0,0 1,139.5 8L139.5,53A7.5,7.5 0,0 1,132 60.5L8,60.5A7.5,7.5 0,0 1,0.5 53L0.5,8A7.5,7.5 0,0 1,8 0.5z" />
+	<path android:fillColor="#00000000" android:pathData="M8,0.5L132,0.5A7.5,7.5 0,0 1,139.5 8L139.5,53A7.5,7.5 0,0 1,132 60.5L8,60.5A7.5,7.5 0,0 1,0.5 53L0.5,8A7.5,7.5 0,0 1,8 0.5z" android:strokeColor="@drawable/hud_btn_bg_old2__1" android:strokeWidth="1.0" />
+</vector>
